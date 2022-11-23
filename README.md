@@ -24,6 +24,11 @@
 
 ## Authors
 
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/DuaneDave)
+- Twitter: [@twitterhandle](https://twitter.com/dave_duane)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/okiemute-david-obiebi-6b4a6a230/)
 
 
 ## 🤝 Contributing
